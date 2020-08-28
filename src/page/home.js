@@ -1,4 +1,3 @@
-import getData from '../utils/getData';
 // Funcion que retorna la vista
 const Home = async () => {
     const characters = await getData();
